@@ -7,7 +7,7 @@
 
 
 import pandas as pd
-#importei pandas para manoseio das tabelas
+#importei pandas para manuseio das tabelas
 df = pd.read_csv("advertising.csv")
 #defini uma variavel para receber a tabela
 display(df)
